@@ -1,4 +1,4 @@
-#🎬 Netflix Intro Animation Clone
+🎬 Netflix Intro Animation Clone
 
 A visually appealing clone of the iconic Netflix intro animation, created using HTML and CSS. This project showcases my ability to design creative and dynamic animations with a focus on detail and performance.
 
